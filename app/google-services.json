@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "425362120988",
+    "project_id": "cancerapp-2b11f",
+    "storage_bucket": "cancerapp-2b11f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:425362120988:android:4ff33a28cd91829a1e5ad9",
+        "android_client_info": {
+          "package_name": "walid.baseicmathforkids.cancer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "425362120988-arse56rverdqqbhhek2edo76um9nob0n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "walid.baseicmathforkids.cancer",
+            "certificate_hash": "8504255f3423bdccbef365aaaafc488fd2f7ecfb"
+          }
+        },
+        {
+          "client_id": "425362120988-q0re89nmlk4bua8hs2ge6c47ugth611b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD00mkMdrt9KOxkbhs3K9tHsQyTcGFonoU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "425362120988-q0re89nmlk4bua8hs2ge6c47ugth611b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
